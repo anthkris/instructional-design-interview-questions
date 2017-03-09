@@ -5,7 +5,6 @@ This file contains a number of instructional design questions that you can use t
 * [Higher Ed Type Question](#higher-ed-questions)</a>
 * [Corporate Type Questions](#corporate-questions)</a>
 
-<a name="#general-questions"></a>
 ##General Questions
 * Tell me about yourself/background in instructional design and e-learning development.
 * Tell me about a recent project.
@@ -28,7 +27,6 @@ This file contains a number of instructional design questions that you can use t
 * What is your favorite part and least favorite part of instructional design work?
 * We will interview several people for this position. What do you want us to know about you?
 
-<a name="#higher-ed-questions"></a>
 ##Higher Ed Type Questions
 * Give us your definition of an “Instructional Designer.”
 * Provide three examples of Instructional Design projects to which you added value and explain how you added that value?
@@ -40,7 +38,6 @@ This file contains a number of instructional design questions that you can use t
 * What quality evaluation models have you found to be most effective in Instructional Design?
 * What educational theories do you subscribe to?
 
-<a name="#corporate-questions"></a>
 ##Corporate Type Questions
 * How do you handle challenging your eLearning team members or subject matter experts?
 * Do you have any experience creating learning experiences for highly technical subjects?

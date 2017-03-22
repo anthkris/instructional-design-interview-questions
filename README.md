@@ -1,11 +1,12 @@
-#Instructional Design Interview Questions
+# Instructional Design Interview Questions
 This file contains a number of instructional design questions that you can use to practice for instructional design interviews of various types. While your particular interview opportunity may not use all of these questions, being prepared by having thought through your answers will help you to ask better questions and have more interesting conversations.
-##Table of Contents
+
+## Table of Contents
 * [General Questions](#general-questions)</a>
 * [Higher Ed Question](#higher-ed-questions)</a>
 * [Corporate Questions](#corporate-questions)</a>
 
-##General Questions
+## General Questions
 * Tell me about yourself/background in instructional design and e-learning development.
 * Tell me about a recent project.
 * What is motivating you to want to leave your current position?
@@ -27,7 +28,7 @@ This file contains a number of instructional design questions that you can use t
 * What is your favorite part and least favorite part of instructional design work?
 * We will interview several people for this position. What do you want us to know about you?
 
-##Higher Ed Questions
+## Higher Ed Questions
 * Give us your definition of an “Instructional Designer.”
 * Provide three examples of Instructional Design projects to which you added value and explain how you added that value?
 * Explain how you have worked as a team member in the past. How would you establish yourself as a part of a team at this college?
@@ -38,7 +39,7 @@ This file contains a number of instructional design questions that you can use t
 * What quality evaluation models have you found to be most effective in Instructional Design?
 * What educational theories do you subscribe to?
 
-##Corporate Questions
+## Corporate Questions
 * How do you handle challenging your eLearning team members or subject matter experts?
 * Do you have any experience creating learning experiences for highly technical subjects?
 * Do you think that creativity or efficiency is more important?

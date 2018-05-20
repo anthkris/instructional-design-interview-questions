@@ -5,6 +5,7 @@ This file contains a number of instructional design questions that you can use t
 * [General Questions](#general-questions)</a>
 * [Higher Ed Question](#higher-ed-questions)</a>
 * [Corporate Questions](#corporate-questions)</a>
+* [Special Contribution](#questions-and-specific-answers)</a>
 
 ## General Questions
 * Tell me about yourself/background in instructional design and e-learning development.
@@ -45,3 +46,23 @@ This file contains a number of instructional design questions that you can use t
 * Do you think that creativity or efficiency is more important?
 * What kind of quantitative and qualitative data do you use in designing training?
 * Are you comfortable teaching yourself enterprise software in order to create elearning?
+
+## Questions and Specific Answers
+This set of questions was contributed by user DontMakeMeClickNext on the [instructional design subreddit](https://www.reddit.com/r/instructionaldesign/comments/8k6x9j/potential_interview_questions_and_answers_for_id/). This set includes questions and expectations about what good answers would include.
+
+* Describe a successful learning program you designed. At what point did you enter into the process, and how far did you carry it through the ADDIE process?
+  > Expected answers would be request through evaluation. What would be a concern are individuals who have only worked part of the process – looking for experience in the full cycle. Bonus if they bring up ADDIE on their own. Double bonus if they talk about rapid development. If they don’t, ask what rapid development means to them or to describe what it looks like in action. I would expect to hear about prototyping and iterative development
+* Describe what you feel is your most creative learning approach/solution?
+  > Expected answers would be in current learning industry trends, and feature both hi and lo-fi solutions. Its not only about flashy graphics and such
+* Describe your experience working with Subject Matter Experts/clients. Describe a time where you were faced with SMEs with compressed schedules and short attentions spans – how did you set the project up for success?
+  > General question for the first, I would expect to see a lot of direct contact. For the second, I’m looking for basic PM skills, being able to work asynchronously with clients
+* Describe your communication style with clients, how you document project decisions and progress, and keep track of time and budget? 
+  > Shows they can communicate well to clients and keep a good historical tracking of their progress
+* Describe a time where a client was unhappy with your work or disagreed with your approach. How did you resolve the situation?
+  > Will show the difference between an order taker and a consultant. Would expect to hear support for accepted, proven approaches, rather than only changing things to please the client where the product result might be less effective
+* Do you have experience with 508 compliance? 
+  > If so, describe some successful applications
+* What is your preferred design and development process? 
+  > Want to see people with autonomous skillset, but willing to collaborate for inspiration, overcoming creative blocks, and quality reviews early and often
+* What do you do when the design and development phases are interrupted? Give an example of how you handle it • Tell me about how you worked effectively under pressure.
+  > These are here to flesh out how they handle working with a high degree of ambiguity. Looking for people to make quality decisions with confidence, without hand-holding and to know when to ask for help
